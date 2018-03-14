@@ -1,5 +1,5 @@
 <?php
-	
+	session_start();
 	$server_path='/home/users/a/antikhoof/domains/';
 	$root_folder='C:\aibolit-for-windows\site/';
 		
